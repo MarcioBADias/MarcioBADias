@@ -12,9 +12,6 @@ Encontrei na área da tecnologia um caminhado para descobertas incríveis e trab
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQF8l32-gmw-7zYX-rB9VRoJVcrmlHHgD_tEg&usqp=CAU" width="120" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img src="https://cdn.iconscout.com/icon/free/png-256/bootstrap-6-1175203.png" width="40" height="40"/>
 
-## Estou aprendendo
-
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFHPudNmpjQZ6OPVK_oTql1v51Z14GpAQKzw&usqp=CAU" width="200" height="80"/>
 <!---
 MarcioBADias/MarcioBADias is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
