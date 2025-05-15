@@ -18,6 +18,28 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/FlutterFlow_logo.svg" width="40" height="40" alt="FlutterFlow"/>
 </div>
 
+## 🧩 Top Projects
+<p>
+  <a href="https://controle-financeiro-pessoal-simples.netlify.app/">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MarcioBADias&repo=controle-financeiro&theme=dark&bg_color=0D1017&title_color=E8EDF3&hide_border=false&icon_color=E8EDF3&show_icons=false&border_radius=0" alt="controle-financeiro">
+  </a>
+  <a href="https://ti-plantao.netlify.app/">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MarcioBADias&repo=TI_gestor-plantao-pendencias&theme=dark&bg_color=0D1017&title_color=E8EDF3&hide_border=false&icon_color=E8EDF3&show_icons=false&border_radius=0" alt="TI_gestor-plantao-pendencias">
+  </a>
+  <a href="https://meu-catalogo-de-filmes.netlify.app/">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MarcioBADias&repo=me-avalia&theme=dark&bg_color=0D1017&title_color=E8EDF3&hide_border=false&icon_color=E8EDF3&show_icons=false&border_radius=0" alt="me-avalia">
+  </a>
+</p>
+
+<p align="right">
+  <a href="https://github.com/MarcioBADias?tab=repositories">
+    <img alt="All Projects" src="https://img.shields.io/badge/All%20Projects-05122A?style=flat-square">
+  </a>
+</p>
+
+Espero que goste dos projetos e me acompanhe na minha jornada de desenvolvimento! ✨
+
+
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
@@ -33,14 +55,3 @@
   <a href="https://www.linkedin.com/in/marcio-breno-augusto-dias-23a84ab4" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="LinkedIn"></a>
 </div>
 
-## 🧩 Alguns dos meus principais projetos:
-
-- **[Memory Game Retro (Challenger)](https://memory-game-challenger-code.netlify.app/)** - Um jogo clássico de memória.
-- **[Memory Game Temático](https://memorygameadventuretime.netlify.app/)** - Jogo de memória com temática divertida.
-- **[Speed Run Game (Mario)](https://mario-run.netlify.app/)** - Jogo de corrida estilo Mario.
-- **[Dungeon Dices (Protótipo)](https://dungeons-dices.netlify.app/)** - Protótipo de jogo de dados e aventura.
-- **[Questionários Educacionais](https://turma-do-miguel.netlify.app/)** - Questionários interativos para educação.
-- **[To-do List](https://lista-de-tarefas-ou-contas.netlify.app/)** - Lista de tarefas para organização pessoal.
-- **[Calendário de Escala](https://escala-vigias-setra.netlify.app/)** - Sistema de escala para vigilantes.
-
-Espero que goste dos projetos e me acompanhe na minha jornada de desenvolvimento! ✨
