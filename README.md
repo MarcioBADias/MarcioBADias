@@ -30,6 +30,17 @@
     <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MarcioBADias&repo=me-avalia&theme=dark&bg_color=0D1017&title_color=E8EDF3&hide_border=false&icon_color=E8EDF3&show_icons=false&border_radius=0" alt="me-avalia">
   </a>
 </p>
+<p>
+  <a href="https://controle-de-tarefas.netlify.app/">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MarcioBADias&repo=controle-de-tarefas&theme=dark&bg_color=0D1017&title_color=E8EDF3&hide_border=false&icon_color=E8EDF3&show_icons=false&border_radius=0" alt="controle-de-tarefas">
+  </a>
+  <a href="https://checkspeechai.netlify.app/">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MarcioBADias&repo=checkspeechai&theme=dark&bg_color=0D1017&title_color=E8EDF3&hide_border=false&icon_color=E8EDF3&show_icons=false&border_radius=0" alt="checkspeechai">
+  </a>
+  <a href="https://memorygameadventuretime.netlify.app/">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MarcioBADias&repo=memorygameadventuretime&theme=dark&bg_color=0D1017&title_color=E8EDF3&hide_border=false&icon_color=E8EDF3&show_icons=false&border_radius=0" alt="memorygameadventuretime">
+  </a>
+</p>
 
 <p align="right">
   <a href="https://github.com/MarcioBADias?tab=repositories">
