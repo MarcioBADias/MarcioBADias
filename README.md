@@ -24,6 +24,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" alt="Express"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="40" height="40" alt="Supabase"/>
+  <img src="https://img.shields.io/badge/n8n-FF5722?style=for-the-badge&logo=n8n&logoColor=white" width="60" height="40" alt="n8n"/>
 </div>
 
 ---
@@ -40,7 +41,7 @@
     <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MarcioBADias&repo=checkspeech&theme=dark&bg_color=0D1017&title_color=E8EDF3&hide_border=false&icon_color=E8EDF3&show_icons=false&border_radius=0" alt="Checkspeech">
   </a>
   <a href="https://controle-financeiro-pessoal-simples.netlify.app/">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MarcioBADias&repo=controle-financeiro&theme=dark&bg_color=0D1017&title_color=E8EDF3&hide_border=false&icon_color=E8EDF3&show_icons=false&border_radius=0" alt="controle-financeiro">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MarcioBADias&repo=controle-financeiro&theme=dark&bg_color=0D1017&title_color=E8EDF3&hide_color=false&icon_color=E8EDF3&show_icons=false&border_radius=0" alt="controle-financeiro">
   </a>
   <a href="https://ti-plantao.netlify.app/">
     <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MarcioBADias&repo=TI_gestor-plantao-pendencias&theme=dark&bg_color=0D1017&title_color=E8EDF3&hide_border=false&icon_color=E8EDF3&show_icons=false&border_radius=0" alt="TI_gestor-plantao-pendencias">
