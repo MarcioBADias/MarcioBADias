@@ -64,14 +64,6 @@ Espero que goste dos projetos e me acompanhe na minha jornada de desenvolvimento
 
 ---
 
-## 📈 Atividade Diária no GitHub
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MarcioBADias&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
-</div>
-
----
-
 ## 📱 Vamos nos conectar!
 
 <div align="center">
